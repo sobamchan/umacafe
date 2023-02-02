@@ -1,5 +1,6 @@
 site: UMACAFE
-url: /umacafe
+url: https://sotaro.io
+baseurl: /umacafe
 title: UMACAFE
 description: An unofficial website for a coffee club in UMA NLP Group.
 googlewebfonts: Fira+Code:wght@400;500;700
