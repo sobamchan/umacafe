@@ -6,7 +6,7 @@ summary:
 tags: []
 ---
 
-# Data	
+# Data
 
 | coffee            | Guatemala Finca Canchacan |
 | brewer            | Hario Switch 03           |
