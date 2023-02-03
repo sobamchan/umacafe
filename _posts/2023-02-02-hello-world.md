@@ -17,3 +17,4 @@ For a CS Ph.D. student, it requires just a little bit of time (though required s
 With this website setup, we can keep updating on our office coffee time hoping that we can host researchers who like coffee to visit us to talk about nerdy things with a cup of coffee.
 
 ![DALLE: Aristotle and Socrates having discussion while drinking coffee at a salon.](/umacafe/assets/imgs/aristotle_socrates_coffee.png)
+An image of "Aristotle and Socrates having discussion while drinking coffee at a salon." by DALL-E.
